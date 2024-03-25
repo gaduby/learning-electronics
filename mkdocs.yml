@@ -30,7 +30,7 @@ theme:
 
 plugins:
   - search
-  - ezlinks
+
 
 markdown_extensions:
 - attr_list
