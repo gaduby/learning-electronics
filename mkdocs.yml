@@ -59,3 +59,5 @@ markdown_extensions:
 - pymdownx.smartsymbols
 - pymdownx.tilde
 - pymdownx.betterem
+- pymdownx.arithmatex:
+      generic: true
