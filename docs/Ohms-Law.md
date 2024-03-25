@@ -2,10 +2,14 @@ Electrical current flowing through a fixed linear resistance is directly proport
 
 By knowing any two values of the voltage, current, or resistance quantities we can use **Ohms Law** to find the third missing value. **Ohms Law** is used extensively in electronics formulas and calculations so it is very important to understand and accurately remember the following formulas:
 
-**To find Voltage:**
+**To find Voltage(V):**
 
-*[V = I x R]* V (volts) = I (amps) x R (Ω)
+*[V = I x R]*       V (volts) = I (amps) x R (Ω)
 
-**To find Current:**
+**To find Current(I):**
 
-*[I = V ÷ R]* I (amps) = V (volts) ÷ R (Ω)
+*[I = V ÷ R]*       I (amps) = V (volts) ÷ R (Ω)
+
+**To find Resistance(R):**
+
+*[ R = V ÷ I ]*     R (Ω) = V (volts) ÷ I (amps)
