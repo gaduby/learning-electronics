@@ -17,3 +17,8 @@ Now if we create a closed circuit these loose electrons will start to move and d
 - **Voltage:** ( V )
 - **Current:** ( i ) and 
 - **Resistance:** ( Ω )
+
+
+
+
+## Electrical Voltage
